@@ -1,4 +1,4 @@
-import { Menu } from "../components/menu.js";
+import { Menu } from "../components/Menu.js";
 
 export function Header() {
   const $header = document.createElement("header");
