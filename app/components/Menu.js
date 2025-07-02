@@ -6,7 +6,7 @@ export function Menu() {
     <nav class="menu-nav">
     <a href="#/">Wordpress Blog</a>
     <a href="#/selects-anidados">Selects Anidados</a>
-    <a href="#/pelicula;*Ps">Películas</a>
+    <a href="#/peliculas;">Películas</a>
     <a href="#/generador-qr">Generador QR</a>
     </nav>
     `;
