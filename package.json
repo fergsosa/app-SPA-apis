@@ -1,0 +1,24 @@
+{
+  "name": "app-spa-apis",
+  "version": "1.0.0",
+  "description": "Una aplicación de una sola página (SPA) que demuestra el consumo de múltiples APIs externas para resolver distintas necesidades dentro de una única interfaz web.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fergsosa/app-SPA-apis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fergsosa/app-SPA-apis/issues"
+  },
+  "homepage": "https://github.com/fergsosa/app-SPA-apis#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
