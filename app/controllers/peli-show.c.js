@@ -18,7 +18,7 @@ export const peliShow = async ($main) => {
             // console.log(e.key, e.keyCode);
             if (e.key === "Enter") {
               try {
-                $shows.innerHTML = `<img class="loader" src="../../app/assets/img/tail-spin.svg" alt="Cargando...">`;
+                $shows.innerHTML = `<img class="loader" src="./app/assets/img/tail-spin.svg" alt="Cargando...">`;
 
                 let query = e.target.value.toLowerCase();
                 let api = `https://api.tvmaze.com/search/shows?q=${query}`;
