@@ -25,6 +25,6 @@ export async function ajax(props) {
 
       document.querySelector(".loader").style.display = "none";
 
-      console.log(err);
+      // console.log(err);
     });
 }
