@@ -31,10 +31,10 @@ export const urlWordpress = {
 };
 
 export const urlHTML = {
-  VISTA: "/app/pages/vista-html.html",
-  QR: "/app/pages/generador-qr.html",
+  VISTA: "./app/pages/vista-html.html",
+  QR: "./app/pages/generador-qr.html",
   PELIS: "./app/pages/api-tv.html",
-  ANIDADOS: "../../app/pages/selects-anidados.html",
+  ANIDADOS: "./app/pages/selects-anidados.html",
   ANIDADOS_API_GOB: "https://apis.datos.gob.ar/georef/api",
 };
 
